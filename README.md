@@ -45,8 +45,12 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/usuario/projeto-acessivel.git
-e
 
+## 🖼️ Print 1
 ![Imagem de exemplo](print-screen/print1.jpeg)
+
+## 🖼️ Print 3
 ![Imagem de exemplo](print-screen/print2.jpeg)
+
+## 🖼️ Print 3
 ![Imagem de exemplo](print-screen/print3.jpeg)
